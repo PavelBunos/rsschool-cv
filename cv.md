@@ -62,7 +62,6 @@ size_t lenString(string str) {
 	}
 	return len;
 }
-
 ```
 
 ##### Send me a message! ;)
